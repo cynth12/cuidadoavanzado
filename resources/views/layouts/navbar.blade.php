@@ -1,20 +1,6 @@
-<!DOCTYPE html>
-<html class="wide wow-animation" lang="en">
-  <head>
-    <title>Home</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Asap:400,400i,500,500i,600i,700,700i%7CNunito:300,500,900">
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/fonts.css">
-    <link rel="stylesheet" href="css/style.css">
-    <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
-  </head>
-  <body>
-    <div class="ie-panel"><a href="https://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
-    <div class="preloader">
+
+
+  <div class="preloader">
       <div class="preloader-body">
         <div class="cssload-container">
           <div class="cssload-speeding-wheel"></div>
@@ -22,7 +8,7 @@
         <p>Loading...</p>
       </div>
     </div>
-    <div class="page">
+<div class="page">
       <header class="section page-header">
         <!--RD Navbar-->
         <div class="rd-navbar-wrap">
@@ -131,24 +117,3 @@
           </nav>
         </div>
       </header>
-      <!--Intro-->
-      
-    <div class="snackbars" id="form-output-global"></div>
-    <script src="js/core.min.js"></script>
-    <script src="js/script.js"></script>
-    <!--coded by Drel-->
-	
-	<!--LIVEDEMO_00 -->
-
-	<script type="text/javascript">
-	 var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-7078796-5']);
-	  _gaq.push(['_trackPageview']);
-	  (function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();</script>
-	
-  <!-- Google Tag Manager --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9FT69" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P9FT69');</script><!-- End Google Tag Manager --></body>
-</html>
