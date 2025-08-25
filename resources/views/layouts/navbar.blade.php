@@ -20,13 +20,13 @@
                   <li>
                     <div class="unit unit-spacing-xs align-items-center">
                       <div class="unit-left"><span class="icon text-middle fa-phone"></span></div>
-                      <div class="unit-body"><a href="tel:#">800 123 45 67</a></div>
+                      <div class="unit-body"><a href="tel:#">771-333-6968</a></div>
                     </div>
                   </li>
                   <li>
                     <div class="unit unit-spacing-xs align-items-center">
                       <div class="unit-left"><span class="icon text-middle fa-map-marker"></span></div>
-                      <div class="unit-body"><a href="index.html#">815 Goldfield Lane, New York, NY 10025</a></div>
+                      <div class="unit-body"><a href="index.html#">Tulancingo, Hgo.</a></div>
                     </div>
                   </li>
                 </ul>
@@ -46,68 +46,36 @@
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!--RD Navbar Brand-->
                   <div class="rd-navbar-brand">
-                    <!--Brand--><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/logo-default-294x44.png" alt="" width="147" height="22"/><img class="brand-logo-light" src="images/logo-inverse-294x44.png" alt="" width="147" height="22"/></a>
+                    <!--Brand--><a class="brand" href="index.html"><img class="brand-logo-dark" src="{{ asset('assets/images/logo-default-294x44.png') }}" alt="" width="147" height="22"/><img class="brand-logo-light" src="images/logo-inverse-294x44.png" alt="" width="147" height="22"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-main-element">
                   <div class="rd-navbar-nav-wrap">
                     <ul class="rd-navbar-nav">
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a>
+                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Inicio</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="about-us.html">About us</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="about-us.html">Servicios</a>
                         <ul class="rd-menu rd-navbar-dropdown">
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="doctors.html">Doctors</a>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="doctors.html"></a>
                           </li>
                           <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="single-doctor.html">Single Doctor</a>
                           </li>
                         </ul>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="departments.html">Departments</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="departments.html">Curación avanzada</a>
                         <ul class="rd-menu rd-navbar-dropdown">
                           <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="single-department.html">Single Department</a>
                           </li>
                         </ul>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="blog.html">Blog</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="blog.html">Casos clinicos</a>
                         <ul class="rd-menu rd-navbar-dropdown">
                           <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="single-blog-post.html">Single Blog post</a>
                           </li>
                         </ul>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="index.html#">Pages</a>
-                        <ul class="rd-menu rd-navbar-megamenu">
-                          <li class="rd-megamenu-item">
-                            <h6 class="rd-megamenu-title">Pages 1</h6>
-                            <ul class="rd-megamenu-list">
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="typography.html">Typography</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="buttons.html">Buttons</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="forms.html">Forms</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tabs-and-accordions.html">Tabs and accordions</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="progress-bars.html">Progress bars</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tables.html">Tables</a></li>
-                            </ul>
-                          </li>
-                          <li class="rd-megamenu-item">
-                            <h6 class="rd-megamenu-title">Pages 2</h6>
-                            <ul class="rd-megamenu-list">
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="grid-system.html">Grid system</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="privacy-policy.html">Privacy policy</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="doctors.html">Doctors</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="single-doctor.html">Single Doctor</a></li>
-                            </ul>
-                          </li>
-                          <li class="rd-megamenu-item">
-                            <h6 class="rd-megamenu-title">Pages 3</h6>
-                            <ul class="rd-megamenu-list">
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="under-construction.html">Under Construction</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="search-results.html">Search results</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="blog.html">Blog</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="single-blog-post.html">Single Blog Post</a></li>
-                            </ul>
-                          </li>
-                        </ul>
-                      </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="contacts.html">Contacts</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="index.html#">Nosotros</a></li>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="contacts.html">Contacto</a>
                       </li>
                     </ul>
                   </div>
