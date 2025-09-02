@@ -31,7 +31,7 @@
               </div>
             </div>
             <div class="col-xl-6 d-none d-xl-block wow fadeInUp" data-wow-dalay=".2s">
-              <div class="box-about-creative__media"><img src="{{ asset('assets/images/home-img-1-682x625.png') }}" alt="" width="682" height="625"/>
+              <div class="box-about-creative__media"><img src="{{ asset('assets/images/curacion_heridas.jpg') }}" alt="" width="682" height="625"/>
               </div>
             </div>
           </div>

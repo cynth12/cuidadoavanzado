@@ -1,80 +1,79 @@
-
-<section class="section bg-gray-light position-relative">
-        <div class="container">
-          <div class="row">
-            <div class="col-xl-6 position-static">
-              <div class="float-media-box__left bg-image-2"></div>
+<section class="section section-lg">
+    <div class="container">
+        <div class="head-group text-center text-md-left">
+            <div class="head-group__title">
+                <h2 class="wow fadeInLeft" data-wow-dalay=".2s">Nuestros <span class="text-primary">Servicios</span> <br
+                        class="d-lg-block d-none"></h2>
             </div>
-            <div class="col-xl-6 wow fadeInRight" data-wow-dalay=".2s">
-              <div class="section-lg">
-                <h2 class="wow fadeInRight">Tecnologias<span class="text-primary"> implementadas</span></h2>
-                <div class="card-group-custom card-group-classic wow fadeInRight" id="accordion2" data-wow-dalay=".2s" role="tablist" aria-multiselectable="false">
-                  <!--Bootstrap card-->
-                  <article class="card card-custom card-corporate">
-                    <div class="card-header" role="tab">
-                      <div class="card-title"><a id="accordion2-card-head-wefnjavp" data-toggle="collapse" data-parent="#accordion2" href="index.html#accordion2-card-body-uvkyrxya" aria-controls="accordion2-card-body-uvkyrxya" aria-expanded="true" role="button">Tratamiento avanzado
-                          <div class="card-arrow"></div></a></div>
-                    </div>
-                    <div class="collapse show" id="accordion2-card-body-uvkyrxya" aria-labelledby="accordion2-card-head-wefnjavp" data-parent="#accordion2" role="tabpanel">
-                      <div class="card-body">
-                        <p>Tratamientos clínicos de vanguardia para heridas, estomas y quemaduras</p>
-                      </div>
-                    </div>
-                  </article>
-                  <!--Bootstrap card-->
-                  <article class="card card-custom card-corporate">
-                    <div class="card-header" role="tab">
-                      <div class="card-title"><a class="collapsed" id="accordion2-card-head-hexhebfa" data-toggle="collapse" data-parent="#accordion2" href="index.html#accordion2-card-body-vmwcuvnm" aria-controls="accordion2-card-body-vmwcuvnm" aria-expanded="false" role="button">Apositos antimicrobianos
-                          <div class="card-arrow"></div></a></div>
-                    </div>
-                  </article>
-                  <!--Bootstrap card-->
-                  <article class="card card-custom card-corporate">
-                    <div class="card-header" role="tab">
-                      <div class="card-title"><a class="collapsed" id="accordion2-card-head-ewqaqkuh" data-toggle="collapse" data-parent="#accordion2" href="index.html#accordion2-card-body-pgpesvvb" aria-controls="accordion2-card-body-pgpesvvb" aria-expanded="false" role="button">Larvaterapia
-                          <div class="card-arrow"></div></a></div>
-                    </div>
-                  </article>
-                  <!--Bootstrap card-->
-                  <article class="card card-custom card-corporate">
-                    <div class="card-header" role="tab">
-                      <div class="card-title"><a class="collapsed" id="accordion2-card-head-ncrljagu" data-toggle="collapse" data-parent="#accordion2" href="index.html#accordion2-card-body-fudjrlgw" aria-controls="accordion2-card-body-fudjrlgw" aria-expanded="false" role="button">Apositos de miel grado medico 
-                          <div class="card-arrow"></div></a></div>
-                    </div>
-                  </article>
-                  <article class="card card-custom card-corporate">
-                    <div class="card-header" role="tab">
-                      <div class="card-title"><a class="collapsed" id="accordion2-card-head-ncrljagu" data-toggle="collapse" data-parent="#accordion2" href="index.html#accordion2-card-body-fudjrlgw" aria-controls="accordion2-card-body-fudjrlgw" aria-expanded="false" role="button">Apositos de miel grado medico 
-                          <div class="card-arrow"></div></a></div>
-                    </div>
-                  </article>
-                  <article class="card card-custom card-corporate">
-                    <div class="card-header" role="tab">
-                      <div class="card-title"><a class="collapsed" id="accordion2-card-head-ncrljagu" data-toggle="collapse" data-parent="#accordion2" href="index.html#accordion2-card-body-fudjrlgw" aria-controls="accordion2-card-body-fudjrlgw" aria-expanded="false" role="button">Terapia de presion negativa
-                          <div class="card-arrow"></div></a></div>
-                    </div>
-                  </article>
-                  <article class="card card-custom card-corporate">
-                    <div class="card-header" role="tab">
-                      <div class="card-title"><a class="collapsed" id="accordion2-card-head-ncrljagu" data-toggle="collapse" data-parent="#accordion2" href="index.html#accordion2-card-body-fudjrlgw" aria-controls="accordion2-card-body-fudjrlgw" aria-expanded="false" role="button">Microinjertos en sello 
-                          <div class="card-arrow"></div></a></div>
-                    </div>
-                  </article>
-                  <article class="card card-custom card-corporate">
-                    <div class="card-header" role="tab">
-                      <div class="card-title"><a class="collapsed" id="accordion2-card-head-ncrljagu" data-toggle="collapse" data-parent="#accordion2" href="index.html#accordion2-card-body-fudjrlgw" aria-controls="accordion2-card-body-fudjrlgw" aria-expanded="false" role="button">Terapia de compresion lasser
-                          <div class="card-arrow"></div></a></div>
-                    </div>
-                  </article>
-                  <article class="card card-custom card-corporate">
-                    <div class="card-header" role="tab">
-                      <div class="card-title"><a class="collapsed" id="accordion2-card-head-ncrljagu" data-toggle="collapse" data-parent="#accordion2" href="index.html#accordion2-card-body-fudjrlgw" aria-controls="accordion2-card-body-fudjrlgw" aria-expanded="false" role="button">Ozono antisepticos avanzados. 
-                          <div class="card-arrow"></div></a></div>
-                    </div>
-                  </article>
-                </div>
-              </div>
-            </div>
-          </div>
+            <div class="head-group__link"><a class="wow fadeInLeft" data-wow-dalay=".3s" href="departments.html">all
+                    Departments</a></div>
         </div>
-      </section>
+        <div class="row row-30 justify-content-center">
+            <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".1s">
+                <div class="icon-box-modern">
+                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/infeccion_herida.jpg') }}" alt=""
+                            width="200" height="100" />
+                    </div>
+                    <h4><a href="single-department.html">Infección de heridas</a></h4>
+                    <p>Tratamos heridas infectadas con protocolos avanzados de limpieza, desinfección y antibióticos
+                        tópicos o sistémicos.
+                        Nuestro enfoque busca controlar la infección, reducir la inflamación y acelerar la
+                        cicatrización.</p>
+                </div>
+            </div>
+            <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".2s">
+                <div class="icon-box-modern">
+                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/quemadura.jpg') }}" alt=""
+                            width="250" height="200" />
+                    </div>
+                    <h4><a href="single-department.html">Quemaduras</a></h4>
+                    <p>Atendemos quemaduras leves y moderadas con terapias regenerativas, apósitos especiales y control
+                        del dolor.
+                        Nos enfocamos en evitar complicaciones y minimizar las secuelas estéticas.</p>
+                </div>
+            </div>
+            <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".3s">
+                <div class="icon-box-modern">
+                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/dehicensia_herida.jpg') }}" alt=""
+                            width="300" height="250" />
+                    </div>
+                    <h4><a href="single-department.html">Dehiscencia de heridas</a></h4>
+                    <p>Cuando una herida quirúrgica se abre antes de cicatrizar, intervenimos con técnicas de cierre secundario, 
+                      control de humedad y seguimiento continuo para evitar infecciones y favorecer el cierre natural.
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".4s">
+                <div class="icon-box-modern">
+                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/herida_quirurgica.jpg') }}"  alt=""
+                            width="250" height="200" />
+                    </div>
+                    <h4><a href="single-department.html">Heridas quirurgicas</a></h4>
+                    <p>Realizamos seguimiento postoperatorio para asegurar que las incisiones quirúrgicas cicatricen correctamente. 
+                      Aplicamos cuidados específicos según el tipo de cirugía y el estado de la piel.</p>
+                </div>
+            </div>
+            <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".5s">
+                <div class="icon-box-modern">
+                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/ulcera.jpg') }}" alt=""
+                            width="200" height="200" />
+                    </div>
+                    <h4><a href="single-department.html">Ulceras por presion</a></h4>
+                    <p>Tratamos lesiones por presión en pacientes encamados con tecnología especializada, 
+                      cambios posturales y apósitos que favorecen la regeneración del tejido.</p>
+                </div>
+            </div>
+            <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".6s">
+                <div class="icon-box-modern">
+                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/estoma.jpg') }}" alt=""
+                            width="200" height="150" />
+                    </div>
+                    <h4><a href="single-department.html">Estomas</a></h4>
+                    <p>Brindamos cuidados integrales para estomas, asegurando que el área se mantenga limpia,  protegida y funcional. 
+                      Educamos al paciente en su manejo diario para evitar complicaciones.</p> 
+                       
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

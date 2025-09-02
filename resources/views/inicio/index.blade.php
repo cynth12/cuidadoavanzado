@@ -61,6 +61,8 @@
      @include('nosotros.index')
        
      @include('servicios.index') 
+
+       @include('tecnologias.index') 
    
     
 

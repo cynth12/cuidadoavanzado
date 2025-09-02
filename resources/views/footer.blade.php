@@ -5,7 +5,7 @@
             <div class="row row-30 align-items-end justify-content-center">
               <div class="col-md-4">
                 <ul class="social-list">
-                  <li class="wow fadeInUp" data-wow-dalay=".1s"><a href="index.html#"><span class="icon fa fa-linkedin"></span></a></li>
+                  <li class="wow fadeInUp" data-wow-dalay=".1s"><a href="https://www.youtube.com/@asessaulavirtual1344"><span class="icon fa fa-youtube"></span></a></li>
                   <li class="wow fadeInUp" data-wow-dalay=".2s"><a href="index.html#"><span class="icon fa fa-twitter"></span></a></li>
                   <li class="wow fadeInUp" data-wow-dalay=".3s"><a href="index.html#"><span class="icon fa fa-facebook"></span></a></li>
                   <li class="wow fadeInUp" data-wow-dalay=".4s"><a href="index.html#"><span class="icon fa fa-instagram"></span></a></li>

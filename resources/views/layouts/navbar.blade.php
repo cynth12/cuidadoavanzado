@@ -31,7 +31,7 @@
                   </li>
                 </ul>
                 <ul class="social-list">
-                  <li><a href="index.html#"><span class="icon fa fa-linkedin"></span></a></li>
+                  <li><a href="https://www.youtube.com/@asessaulavirtual1344"><span class="icon fa fa-youtube"></span></a></li>
                   <li><a href="index.html#"><span class="icon fa fa-twitter"></span></a></li>
                   <li><a href="index.html#"><span class="icon fa fa-facebook"></span></a></li>
                   <li><a href="index.html#"><span class="icon fa fa-instagram"></span></a></li>
