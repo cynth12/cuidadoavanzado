@@ -1,12 +1,11 @@
-<section class="section section-lg">
+<section id="servicios" class="section section-lg">
     <div class="container">
         <div class="head-group text-center text-md-left">
             <div class="head-group__title">
                 <h2 class="wow fadeInLeft" data-wow-dalay=".2s">Nuestros <span class="text-primary">Servicios</span> <br
                         class="d-lg-block d-none"></h2>
             </div>
-            <div class="head-group__link"><a class="wow fadeInLeft" data-wow-dalay=".3s" href="departments.html">all
-                    Departments</a></div>
+            
         </div>
         <div class="row row-30 justify-content-center">
             <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".1s">

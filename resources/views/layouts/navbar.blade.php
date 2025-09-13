@@ -52,30 +52,14 @@
                 <div class="rd-navbar-main-element">
                   <div class="rd-navbar-nav-wrap">
                     <ul class="rd-navbar-nav">
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Inicio</a>
+                      <li class="rd-nav-item active"><a class="rd-nav-link" href="{{ url('#inicio')}}">Inicio</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="about-us.html">Servicios</a>
-                        <ul class="rd-menu rd-navbar-dropdown">
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="doctors.html"></a>
-                          </li>
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="single-doctor.html">Single Doctor</a>
-                          </li>
-                        </ul>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="{{ url('#servicios')}}">Servicios</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="departments.html">Curación avanzada</a>
-                        <ul class="rd-menu rd-navbar-dropdown">
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="single-department.html">Single Department</a>
-                          </li>
-                        </ul>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="{{ url('#tecnologias')}}">Curación avanzada</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="blog.html">Casos clinicos</a>
-                        <ul class="rd-menu rd-navbar-dropdown">
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="single-blog-post.html">Single Blog post</a>
-                          </li>
-                        </ul>
-                      </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="index.html#">Nosotros</a></li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="contacts.html">Contacto</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="{{ url('#nosotros')}}">Nosotros</a></li>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="{{ url('#contacto')}}">Contacto</a>
                       </li>
                     </ul>
                   </div>

@@ -1,9 +1,9 @@
 
 <!--About-->
-
-      <section class="section bg-default">
+<br/>
+      <section id="nosotros" class="section bg-default">
         <div class="container">
-          <div class="row justify-content-center">
+          <div class="row flex-column-reverse flex-xl-row justify-content-center">
             <div class="col-xl-6 col-lg-10 wow fadeInUp" data-wow-dalay=".1s">
               <div class="box-about-creative section-lg">
                 <div class="pre-title wow fadeInLeft">Acerca de nosotros</div>
@@ -26,15 +26,14 @@
                       <li>Certificación nacional en desarrollo de habilidades clínicas en cuidado avanzado de heridas estomas y quemaduras.  </li>
                     </ul>
                   </div>
-                  <div class="col-12"><a class="button button-primary btn-sm button-sm" href="about-us.html">Agenda tu cita</a></div>
                 </div>
               </div>
-            </div>
-            <div class="col-xl-6 d-none d-xl-block wow fadeInUp" data-wow-dalay=".2s">
-              <div class="box-about-creative__media"><img src="{{ asset('assets/images/curacion_heridas.jpg') }}" alt="" width="682" height="625"/>
+            </div><br>
+            <div class="col-xl-6 wow fadeInUp" data-wow-dalay=".2s">
+              <div class="box-about-creative__media"><img src="{{ asset('assets/images/salud_profesional.jpg') }}" alt="" width="682" height="625"/>
               </div>
             </div>
-          </div>
+            </div>
         </div>
       </section>
 
