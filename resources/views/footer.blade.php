@@ -53,12 +53,12 @@
                   </a>
                 </li>
                 <li class="mb-3 wow fadeInUp" data-wow-delay=".2s">
-                  <a href="https://facebook.com" target="_blank">
+                  <a href="https://www.facebook.com/share/p/1FD9fjj7Rf/" target="_blank">
                     <span class="icon fa fa-facebook fa-2x text-white"></span> Facebook
                   </a>
                 </li>
                 <li class="mb-3 wow fadeInUp" data-wow-delay=".3s">
-                  <a href="https://instagram.com" target="_blank">
+                  <a href="/" target="_blank">
                     <span class="icon fa fa-instagram fa-2x text-white"></span> Instagram
                   </a>
                 </li>
