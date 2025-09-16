@@ -8,8 +8,8 @@
         <!-- Columna 1: Logo y descripción -->
         <div class="col-xl-3 order-1 wow fadeInLeft">
           <a class="brand" href="index.html">
-            <img class="brand-logo-dark" src="{{ asset('assets/images/logo-default-294x44.png') }}" alt="" width="147" height="22" />
-            <img class="brand-logo-light" src="images/logo-inverse-294x44.png" alt="" width="147" height="22" />
+            <img class="brand-logo-dark" src="{{ asset('assets/images/ACADEMIA_logo.png') }}" alt="" width="147" height="22" />
+            <img class="brand-logo-light" src="{{ asset('assets/images/ACADEMIA_logo.png') }}" alt="" width="147" height="22" />
           </a>
           <p class="text-style-1">
             Nos ubicamos en Tulancingo, contamos con un equipo médico quirúrgico, y hospitalización con precios accesibles.
