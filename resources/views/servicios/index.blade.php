@@ -9,7 +9,7 @@
         </div>
         <div class="row row-30 justify-content-center">
             <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".1s">
-                <div class="icon-box-modern">
+                <div id="infeccion" class="icon-box-modern">
                     <div class="icon-box-modern__media"><img src="{{ asset('assets/images/infeccion_herida.jpg') }}"
                             alt="" class="img-servicio" />
                     </div>
@@ -21,7 +21,7 @@
                 </div>
             </div>
             <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".2s">
-                <div class="icon-box-modern">
+                <div id="quemadura" class="icon-box-modern">
                     <div class="icon-box-modern__media"><img src="{{ asset('assets/images/quemadura.jpg') }}"
                             alt="" class="img-servicio" />
                     </div>
@@ -32,7 +32,7 @@
                 </div>
             </div>
             <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".3s">
-                <div class="icon-box-modern">
+                <div id="herida" class="icon-box-modern">
                     <div class="icon-box-modern__media"><img src="{{ asset('assets/images/dehicensia_herida.jpg') }}"
                             alt="" class="img-servicio" />
                     </div>
@@ -44,7 +44,7 @@
                 </div>
             </div>
             <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".4s">
-                <div class="icon-box-modern">
+                <div  id="quirurgica" class="icon-box-modern">
                     <div class="icon-box-modern__media"><img src="{{ asset('assets/images/herida_quirurgica.jpg') }}"
                             alt="" class="img-servicio" />
                     </div>
@@ -55,7 +55,7 @@
                 </div>
             </div>
             <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".5s">
-                <div class="icon-box-modern">
+                <div  id="ulcera" class="icon-box-modern">
                     <div class="icon-box-modern__media"><img src="{{ asset('assets/images/ulcera.jpg') }}"
                             alt="" class="img-servicio" />
                     </div>
@@ -65,7 +65,7 @@
                 </div>
             </div>
             <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".6s">
-                <div class="icon-box-modern">
+                <div id="estoma" class="icon-box-modern">
                     <div class="icon-box-modern__media"><img src="{{ asset('assets/images/estoma.jpg') }}"
                             alt="" class="img-servicio" />
                     </div>
@@ -77,7 +77,7 @@
                 </div>
             </div>
             <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".6s">
-                <div class="icon-box-modern">
+                <div id="pie_diabetico" class="icon-box-modern">
                     <div class="icon-box-modern__media"><img src="{{ asset('assets/images/pie-diabetico.png') }}"
                             alt="" class="img-servicio" />
                     </div>

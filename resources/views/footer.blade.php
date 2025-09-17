@@ -20,11 +20,13 @@
         <div class="col-sm-8 col-xl-3 col-md-3 inset-xl-left-90 order-2">
           <h6 class="title-decorated wow fadeInUp">Servicios</h6>
           <ul class="footer-nav-list">
-            <li class="wow fadeInUp" data-wow-delay=".1s"><a href="#servicios">Infección de heridas</a></li>
-            <li class="wow fadeInUp" data-wow-delay=".2s"><a href="#servicios">Quemaduras</a></li>
-            <li class="wow fadeInUp" data-wow-delay=".3s"><a href="#servicios">Dehiscencias de heridas</a></li>
-            <li class="wow fadeInUp" data-wow-delay=".4s"><a href="#servicios">Heridas quirúrgicas</a></li>
-            <li class="wow fadeInUp" data-wow-delay=".5s"><a href="#servicios">Úlceras por presión</a></li>
+            <li class="wow fadeInUp" data-wow-delay=".1s"><a href="#infeccion">Infección de heridas</a></li>
+            <li class="wow fadeInUp" data-wow-delay=".2s"><a href="#quemadura">Quemaduras</a></li>
+            <li class="wow fadeInUp" data-wow-delay=".3s"><a href="#herida">Dehiscencias de heridas</a></li>
+            <li class="wow fadeInUp" data-wow-delay=".4s"><a href="#quirurgica">Heridas quirúrgicas</a></li>
+            <li class="wow fadeInUp" data-wow-delay=".5s"><a href="#ulcera">Úlceras por presión</a></li>
+            <li class="wow fadeInUp" data-wow-delay=".5s"><a href="#pie_diabetico">Pie diabetico</a></li>
+            <li class="wow fadeInUp" data-wow-delay=".5s"><a href="#estoma">Estomas</a></li>
           </ul>
         </div>
 
