@@ -12108,3 +12108,21 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
+.img-servicio {
+  width: 100%;
+  max-width: 426px;
+  height: 340px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.icon-box-modern__media {
+  height: 340px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
