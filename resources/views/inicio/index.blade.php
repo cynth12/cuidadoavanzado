@@ -15,7 +15,7 @@
             <div class="col-lg-8">
               <div class="intro-box wow fadeInLeft" data-wow-dalay=".2s"><span class="subtitle">Bienvenidos a cuidado avanzado de heridas</span>
                 <h1>ATENCION ESPECIALIZADA DE HERIDAS</h1>
-                <div class="button-group"><a class="button-primary button button-md" href="index.html#">Agenda tu cita</a><a class="button-secondary-outline button" href="departments.html">SERVICIOS</a></div>
+                <div class="button-group"><a class="button-primary button button-md" href="{{ url('#contacto')}}">Agenda tu cita</a><a class="button-secondary-outline button" href="{{ url('#servicios')}}">SERVICIOS</a></div>
               </div>
             </div>
           </div>

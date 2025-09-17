@@ -35,11 +35,11 @@
             <div class="col-6">
               <h6 class="title-decorated wow fadeInUp">Enlaces</h6>
               <ul class="footer-nav-list">
-                <li class="wow fadeInUp" data-wow-delay=".1s"><a href="index.html">Inicio</a></li>
-                <li class="wow fadeInUp" data-wow-delay=".2s"><a href="departments.html">Servicios</a></li>
-                <li class="wow fadeInUp" data-wow-delay=".3s"><a href="about-us.html">Nosotros</a></li>
-                <li class="wow fadeInUp" data-wow-delay=".4s"><a href="blog.html">Curación avanzada</a></li>
-                <li class="wow fadeInUp" data-wow-delay=".5s"><a href="contacts.html">Contacto</a></li>
+                <li class="wow fadeInUp" data-wow-delay=".1s"><a href="{{ url('#inicio')}}">Inicio</a></li>
+                <li class="wow fadeInUp" data-wow-delay=".2s"><a href="{{ url('#servicios')}}">Servicios</a></li>
+                <li class="wow fadeInUp" data-wow-delay=".3s"><a href="{{ url('#nosotros')}}">Nosotros</a></li>
+                <li class="wow fadeInUp" data-wow-delay=".4s"><a href="{{ url('#tecnologias')}}">Curación avanzada</a></li>
+                <li class="wow fadeInUp" data-wow-delay=".5s"><a href="{{ url('#contacto')}}">Contacto</a></li>
               </ul>
             </div>
 
