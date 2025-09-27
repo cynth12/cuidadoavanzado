@@ -62,7 +62,7 @@
         <div class="container">
           <div class="row row-narrow-80 flex-column-reverse flex-lg-row align-items-center">
             <div class="col-lg-5 col-12 d-flex justify-content-center mb-4 mb-lg-0">
-              <div class="media-creative wow fadeInLeft"><img src="{{ asset('assets/images/herida.png') }}" alt="" width="499" height="524"/>
+              <div class="media-creative wow fadeInLeft"><img src="{{ asset('assets/images/herida_1.png') }}" alt="" width="499" height="524"/>
               </div>
             </div>
 
