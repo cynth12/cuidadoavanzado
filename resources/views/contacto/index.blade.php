@@ -34,7 +34,7 @@
       <!-- Columna derecha: imagen clínica -->
       <div class="col-lg-5">
         <div class="media-creative wow fadeInRight">
-          <img src="{{ asset('assets/images/material_heridas.png') }}" alt="Material Heridas" class="img-fluid rounded shadow" />
+          <img src="{{ asset('assets/images/contacto.png') }}" alt="Material Heridas" class="img-fluid rounded shadow" />
         </div>
       </div>
     </div>

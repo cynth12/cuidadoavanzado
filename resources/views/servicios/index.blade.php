@@ -10,7 +10,7 @@
         <div class="row row-30 justify-content-center">
             <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".1s">
                 <div id="infeccion" class="icon-box-modern">
-                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/infeccion_herida.jpg') }}"
+                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/infeccion_heridas.png') }}"
                             alt="" class="img-servicio" />
                     </div>
                     <h4><a>Infección de heridas</a></h4>
@@ -22,7 +22,7 @@
             </div>
             <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".2s">
                 <div id="quemadura" class="icon-box-modern">
-                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/quemadura.jpg') }}"
+                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/quemadura.png') }}"
                             alt="" class="img-servicio" />
                     </div>
                     <h4><a>Quemaduras</a></h4>
@@ -33,7 +33,7 @@
             </div>
             <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".3s">
                 <div id="herida" class="icon-box-modern">
-                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/dehicensia_herida.jpg') }}"
+                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/heridas.png') }}"
                             alt="" class="img-servicio" />
                     </div>
                     <h4><a>Dehiscencia de heridas</a></h4>
@@ -45,7 +45,7 @@
             </div>
             <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".4s">
                 <div  id="quirurgica" class="icon-box-modern">
-                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/herida_quirurgica.jpg') }}"
+                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/herida_quirurgica.png') }}"
                             alt="" class="img-servicio" />
                     </div>
                     <h4><a>Heridas quirurgicas</a></h4>
@@ -56,7 +56,7 @@
             </div>
             <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".5s">
                 <div  id="ulcera" class="icon-box-modern">
-                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/ulcera.jpg') }}"
+                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/ulcera.png') }}"
                             alt="" class="img-servicio" />
                     </div>
                     <h4><a>Ulceras por presion</a></h4>
@@ -78,7 +78,7 @@
             </div>
             <div class="col-sm-8 col-md-6 col-lg-4 wow fadeInUp" data-wow-dalay=".6s">
                 <div id="pie_diabetico" class="icon-box-modern">
-                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/pie-diabetico.png') }}"
+                    <div class="icon-box-modern__media"><img src="{{ asset('assets/images/pie_diabetico.png') }}"
                             alt="" class="img-servicio" />
                     </div>
                     <h4><a>Pie diabetico</a></h4>
