@@ -12125,4 +12125,9 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
   justify-content: center;
   overflow: hidden;
 }
+.brand img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 

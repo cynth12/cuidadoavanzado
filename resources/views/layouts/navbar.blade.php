@@ -46,8 +46,8 @@
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!--RD Navbar Brand-->
                   <div class="rd-navbar-brand">
-                    <!--Brand--><a class="brand" href=""><img class="brand-logo-dark" src="{{ asset('assets/images/png') }}" alt="" width="" height=""/>
-                      <img class="brand-logo-light" src="{{ asset('assets/images/.png') }}" alt="" width="" height=""/></a>
+                    <!--Brand--><a class="brand" href=""><img class="brand-logo-dark" src="{{ asset('assets/images/logo.png') }}" alt="" width="800" height="1200"/>
+                      <img class="brand-logo-light" src="{{ asset('assets/images/logo.png') }}" alt="" width="800" height="1200"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-main-element">
