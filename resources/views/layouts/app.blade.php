@@ -10,7 +10,7 @@
     {{-- Open Graph --}}
     <meta property="og:title" content="@yield('og_title', 'CUIDADO AVANZADO 🦶 Clínica Especializada en Heridas y Estomas')">
     <meta property="og:description" content="@yield('og_description', 'Expertos en curación de heridas, ostomías y pie diabético en Tulancingo. Agenda tu cita hoy.')">
-    <meta property="og:image" content="https://i.imgur.com/h0sHZ0q.png">
+    <meta property="og:image" content="https://i.imgur.com/6vmSsyM.png">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
 
